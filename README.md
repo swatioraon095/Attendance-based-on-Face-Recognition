@@ -1,6 +1,8 @@
 # Attendance-based-on-Face-Recognition
 I have developed this website using HTML and Python
 
+## Link for the video of project demo : https://drive.google.com/file/d/1BifIOUqcStYGB8CjcqC5rTO7nisbktJk/view?usp=sharing
+
 
 This project involves building an attendance system which utilizes facial recognition to mark the presence, time-in, and time-out of employees. It covers areas such as facial detection, alignment, and recognition, along with the development of a web application to cater to various use cases of the system such as registration of new employees, addition of photos to the training dataset, viewing attendance reports, etc. This project intends to serve as an efficient substitute for traditional manual attendance systems. It can be used in corporate offices, schools, and organizations where security is essential.
 
